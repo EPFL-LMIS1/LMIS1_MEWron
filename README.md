@@ -20,6 +20,6 @@ If you use the files in this repository for scientific work, we kindly ask you t
 
 ---
 
-### [Flat collector MEWron](LMIS1_MEWron/Flat%20collector%20MEWron)
+### [Flat collector MEWron](LMIS1_MEWron/Flat%20collector%20MEWron/README.md)
 
 Here you can find all information
