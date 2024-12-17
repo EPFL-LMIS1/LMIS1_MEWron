@@ -22,4 +22,13 @@ If you use the files in this repository for scientific work, we kindly ask you t
 
 ### [Flat collector MEWron](https://github.com/EPFL-LMIS1/LMIS1_MEWron/blob/main/Flat%20collector%20MEWron)
 
-Here you can find all information
+Here you can find all information on how to build and set-up your own MEWron with a flat collector. You can also find and image file that you can flash onto a new SD card to see how we set up the printer.
+
+
+### [Tubular collector MEWron](https://github.com/EPFL-LMIS1/LMIS1_MEWron/blob/main/Tubular%20collector%20MEWron)
+
+Here you can find all information on how to upgrade your existing flat collector MEWron with a tubular collector. You can also find and image file that you can flash onto a new SD card to see how we set up the printer.
+
+### [G-Codes and Code generator](https://github.com/EPFL-LMIS1/LMIS1_MEWron/blob/main/G-Codes)
+
+Here you can find phython scripts to generate your own G-codes as well as some premade ones.
