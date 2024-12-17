@@ -18,4 +18,8 @@ If you use the files in this repository for scientific work, we kindly ask you t
 "MEWron: An open-source melt electrowriting platform" https://doi.org/10.1016/j.addma.2023.103604
 "Performance Comparison of Shape Memory Polymer Structures Printed by Fused Deposition Modeling and Melt Electrowriting" https://doi.org/10.1002/admt.202400466
 
+---
 
+### [Flat Collector MEWron](Flat collector MEWron/README.md)
+
+Here you can find all information
