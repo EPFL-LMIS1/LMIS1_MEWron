@@ -17,4 +17,4 @@ For this conversion, the following other repositories are needed:
 
 https://github.com/Chr157i4n/TMC2209_Raspberry_Pi/tree/main
 
-https://github.com/mewron/mewron
+https://github.com/mewron/mewron (the two files "speed.py" and "speed.sh" in this respo are taken directly from there)
