@@ -1,0 +1,5 @@
+$ cat .gitignore
+#ignore gcode files
+*.gcode
+#and pycache 
+__pycache__

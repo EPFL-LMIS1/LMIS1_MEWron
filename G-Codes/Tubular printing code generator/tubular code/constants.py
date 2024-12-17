@@ -8,7 +8,7 @@ DENSITY=  1.25 # PHA    #1.09 polycaprolactone melt density in g/cm^3
 Qv=DENSITY/FLOWRATE#Volume flow rate of the fiber
 #found here: https://arxiv.org/ftp/arxiv/papers/2211/2211.04688.pdf
 OFFSET=15 #safety offset to remove the tool head
-FILE_NAME="tube025spacingPHA"
-v_x=900 #PCL:15
+FILE_NAME="tube"
+v_x=600 #PCL:15 and 900
 v_theta_init=0.5 #speed to set for the attachment of the fibre on the mandrel
 R_MANDREL=1.5 # radius of the mandrel

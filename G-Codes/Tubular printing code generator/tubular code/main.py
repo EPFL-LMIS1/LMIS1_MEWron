@@ -4,10 +4,10 @@ import datetime
 import sys
 
 #parameters used in the tubes
-length = 15     #this is the length of the repeating unit
+length = 15    #this is the length of the repeating unit
 repetitions = 1 #this is the number of repeating units
-layers = 2      #This is the number of layers for the print
-spacing = 0.25  #This is the distance in between the fibres
+layers = 5      #This is the number of layers for the print
+spacing = 0.5  #This is the distance in between the fibres
 #you need to duplicate the variable for multiple print in the same g-code file
 
 #Author of Gcode:
