@@ -7,5 +7,14 @@ Sönke Menke, Biranche Tandon, Juergen Brugger 2024. "Conversion of a Voron FDM 
 https://dx.doi.org/10.17504/protocols.io.q26g71kk3gwz/v1
 
 If you use the files in this repository for scientific work, we kindly ask you to cite this respository and any publications listed here:
-"MEWron: An open-source melt electrowriting platform" https://doi.org/10.1016/j.addma.2023.103604
+* "MEWron: An open-source melt electrowriting platform" https://doi.org/10.1016/j.addma.2023.103604
+* "Conversion of a Voron FDM printer to a MEWron melt electrowriting printer." 
+https://dx.doi.org/10.17504/protocols.io.q26g71kk3gwz/v1
 
+
+---
+For this conversion, the following other repositories are needed:
+
+https://github.com/Chr157i4n/TMC2209_Raspberry_Pi/tree/main
+
+https://github.com/mewron/mewron
