@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/EPFL-FF0000)(https://www.go.epfl.ch/MEW)
+
+
 # LMIS1_MEWron
 
 This respository contains files to recreate the MEWron printers present at LIMS1@EPFL. We do our best to keep an eye on this but refer for questions to the authors of the corresponsing publications. The MEWron is based on the following publication: 
