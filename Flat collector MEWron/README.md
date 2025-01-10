@@ -17,4 +17,8 @@ For this conversion, the following other repositories are needed:
 
 https://github.com/Chr157i4n/TMC2209_Raspberry_Pi/tree/main
 
-https://github.com/mewron/mewron (the two files "speed.py" and "speed.sh" in this respo are taken directly from there)
+https://github.com/mewron/mewron (the two files "speed.py" and "speed.sh" in this repository are taken directly from there)
+
+---
+For the conversion of a Voron 0.1 or 0.2, please follow the protocol and find the 3D files in this github: https://github.com/mewron/mewron
+For the conversion of a Voron Trident, please follow the protocol and find the files in this github.
