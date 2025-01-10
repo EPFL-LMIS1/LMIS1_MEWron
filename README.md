@@ -1,4 +1,10 @@
-![Static Badge](https://img.shields.io/badge/EPFL-FF0000)(https://www.go.epfl.ch/MEW)
+![Static Badge](https://img.shields.io/badge/EPFL-FF0000)
+![Static Badge](https://img.shields.io/badge/license-MIT-00A79F)
+![Static Badge](https://img.shields.io/badge/Voron%200.1-B51F1F)
+![Static Badge](https://img.shields.io/badge/Voron%20Trident-007480)
+
+
+
 
 
 # LMIS1_MEWron
