@@ -16,3 +16,5 @@ Furthermore, you can find a 3D model of the assembled printer in these files.
 The tubular printer was developed during a semester project at the Swiss Federal institute of Technology (EPFL), Lausanne. The pdf report can be found in this repository as well as here: https://infoscience.epfl.ch/handle/20.500.14299/241044 
 
 In the model, you can see that the more isolated printbed from the original MEWron paper is being used. In our lab, we decided to use the stock printbed, without issues regarding eclectic arcing.
+
+More information on tubular printers as well as a parts list can be found in the following publication: "Melt Electrowriting of Nylon-12 Microfibers with an Open-Source 3D Printer" https://doi.org/10.1002/marc.202300424 
