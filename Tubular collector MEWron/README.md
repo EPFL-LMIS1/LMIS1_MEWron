@@ -7,7 +7,7 @@ Before starting to build a tubular MEWron, please refer to the other sections on
 If you use the files in this repository for scientific work, we kindly ask you to cite this repository and any publications listed here: 
 
 * "Performance Comparison of Shape Memory Polymer Structures Printed by Fused Deposition Modeling and Melt Electrowriting" https://doi.org/10.1002/admt.202400466
-* "Addition of a tubular collector to a MEWron melt electrowriting printer" https://www.protocols.io/view/addition-of-a-tubular-collector-to-a-mewron-melt-e-dt2b6qan
+* "Addition of a tubular collector to a MEWron melt electrowriting printer" https://dx.doi.org/10.17504/protocols.io.4r3l292z3v1y/v1
 
 
 
