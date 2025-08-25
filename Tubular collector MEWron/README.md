@@ -4,11 +4,13 @@ Here you can find the files needed to recreate a tubular collector MEWron printe
 
 Before starting to build a tubular MEWron, please refer to the other sections on building a MEWron with a flat collector.
 
+If you need further help, consider downloading a full software image here: "Software image for the assembly of a tubular and syringe based MEWron"  https://doi.org/10.5281/zenodo.16752783
+
 If you use the files in this repository for scientific work, we kindly ask you to cite this repository and any publications listed here: 
 
 * "Performance Comparison of Shape Memory Polymer Structures Printed by Fused Deposition Modeling and Melt Electrowriting" https://doi.org/10.1002/admt.202400466
 * "Addition of a tubular collector to a MEWron melt electrowriting printer" https://dx.doi.org/10.17504/protocols.io.4r3l292z3v1y/v1
-
+* "Software image for the assembly of a tubular and syringe based MEWron"  https://doi.org/10.5281/zenodo.16752783
 
 
 ---
