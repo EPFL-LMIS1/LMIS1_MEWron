@@ -27,6 +27,7 @@ More information on our work and current developments can be found here: https:/
 If you use the files in this repository for scientific work, we kindly ask you to cite this respository and any publications listed here:
 * "MEWron: An open-source melt electrowriting platform" https://doi.org/10.1016/j.addma.2023.103604
 * "Performance Comparison of Shape Memory Polymer Structures Printed by Fused Deposition Modeling and Melt Electrowriting" https://doi.org/10.1002/admt.202400466
+* "Software image for the assembly of a tubular and syringe based MEWron"  https://doi.org/10.5281/zenodo.16752783
 
 ---
 
