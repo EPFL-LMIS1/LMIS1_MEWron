@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/license-MIT-00A79F)
 ![Static Badge](https://img.shields.io/badge/Voron%200.1-B51F1F)
 ![Static Badge](https://img.shields.io/badge/Voron%20Trident-007480)
-
+[![DOI](https://zenodo.org/badge/851688954.svg)](https://doi.org/10.5281/zenodo.16941614)
 
 
 
